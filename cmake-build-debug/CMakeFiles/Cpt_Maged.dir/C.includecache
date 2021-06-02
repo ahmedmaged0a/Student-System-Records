@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/project/New folder (2)/Cpt.Maged/interface.c
+interface.h
+D:/project/New folder (2)/Cpt.Maged/interface.h
+
+D:/project/New folder (2)/Cpt.Maged/interface.h
+privileges.h
+D:/project/New folder (2)/Cpt.Maged/privileges.h
+stdio.h
+-
+stdlib.h
+-
+
+D:/project/New folder (2)/Cpt.Maged/main.c
+stdio.h
+-
+interface.h
+D:/project/New folder (2)/Cpt.Maged/interface.h
+
+D:/project/New folder (2)/Cpt.Maged/privileges.c
+privileges.h
+D:/project/New folder (2)/Cpt.Maged/privileges.h
+
+D:/project/New folder (2)/Cpt.Maged/privileges.h
+struct.h
+D:/project/New folder (2)/Cpt.Maged/struct.h
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+D:/project/New folder (2)/Cpt.Maged/struct.h
+

@@ -1,0 +1,3 @@
+D:/project/New folder (2)/Cpt.Maged/cmake-build-debug/CMakeFiles/Cpt_Maged.dir
+D:/project/New folder (2)/Cpt.Maged/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project/New folder (2)/Cpt.Maged/cmake-build-debug/CMakeFiles/rebuild_cache.dir
